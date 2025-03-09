@@ -16,3 +16,4 @@
 [![Static Badge](https://img.shields.io/badge/%E3%83%9B%E3%83%BC%E3%83%A0%E3%81%AB%E6%88%BB%E3%82%8B-blue)](https://aiitscience.github.io/)
 ## 注意事項
 - Magiskアプリはアップデートさせても構いません。
+- [公式のWSAは2025年3月5日にサポート終了しました。](https://forest.watch.impress.co.jp/docs/news/1667493.html)
