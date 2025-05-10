@@ -1,4 +1,4 @@
-このアプリは、[MustardChef](https://github.com/MustardChef)さんの[WSABuilds](https://github.com/MustardChef/WSABuilds)を改造した、WindowsでAndroidアプリを使えるようにするものです。
+このアプリは、[MustardChef](https://github.com/MustardChef)さんの[WSABuilds](https://github.com/MustardChef/WSABuilds)を改造した、WindowsでAndroidアプリを使えるようにするものです。2024年現在これがアプリ形式なのは史上初です！
 ## 環境
 [ACh Sulfate](https://github.com/cinit)さんの[WSAPatch](https://github.com/cinit/WSAPatch)により、Windows10の10.0.19045.2311以降で使えるようになりました。(ARM非対応)
 ## セットアップ手順
